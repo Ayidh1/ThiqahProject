@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\University_Student",
+    "\\University_Student\\Controllers",
+    "\\University_Student\\DataContext",
+    "\\University_Student\\Models",
+    "\\University_Student\\Repos",
+    "\\University_Student\\ViewModels"
+  ],
+  "SelectedNode": "\\University_Student\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
